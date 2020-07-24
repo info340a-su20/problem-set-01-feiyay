@@ -11,6 +11,6 @@ img {
     max-height: 400px;
 }
 
-.highlighted {
+.highlight {
     color: hsl(30, 100%, 50%);
 }
